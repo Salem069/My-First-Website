@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Research Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#research">Research</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="section">
+        <h1>Welcome to My Research Portfolio</h1>
+        <p>Showcasing my academic journey and research contributions.</p>
+    </section>
+
+    <!-- Research Section -->
+    <section id="research" class="section">
+        <h2>Research Highlights</h2>
+        <div class="research-item">
+            <h3>Project 1: AI in Healthcare</h3>
+            <p>Exploring the impact of machine learning models on predicting disease outcomes.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="research-item">
+            <h3>Project 2: Climate Change Analysis</h3>
+            <p>Analyzing global temperature trends and their effects on ecosystems.</p>
+            <a href="#">Read More</a>
+        </div>
+        <div class="research-item">
+            <h3>Project 3: Natural Language Processing</h3>
+            <p>Developing models to improve sentiment analysis in customer reviews.</p>
+            <a href="#">Read More</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="archensalem@gmail.com">archensalem@gmail.com</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 My Research Portfolio. All rights reserved.</p>
+    </footer>
+    
+</body>
+</html> 
